@@ -1,0 +1,2 @@
+export("eye", "ones", "zeros", 
+       "rand", "randi", "randn", "rande", "randp", "randg")

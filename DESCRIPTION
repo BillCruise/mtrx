@@ -1,0 +1,9 @@
+Package: mtrx
+Type: Package
+Title: Matrix creation convenience functions.
+Version: 1.0
+Date: 2015-02-20
+Author: Bill Cruise
+Maintainer: Bill Cruise <cruise02@gmail.com>
+Description: Matrix creation convenience functions. The function names and parameters will be familiar if you're coming from Octave.
+License: GPL-3
