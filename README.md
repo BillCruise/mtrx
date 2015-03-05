@@ -7,5 +7,7 @@ Provides simple functions for creating identity matrices, zero and ones matrices
 
 You can install directly from GitHub using the R devtools package.
 
-`library(devtools)`
-`install_github("billcruise/mtrx")`
+```
+library(devtools)
+install_github("billcruise/mtrx")
+```
